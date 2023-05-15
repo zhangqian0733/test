@@ -1,2 +1,3 @@
-this is first change = 1 readme.txt
+this is first change = 2 readme.txt
 now wo have a change;
+now we have the second change;
